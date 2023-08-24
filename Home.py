@@ -14,7 +14,7 @@ Original file is located at
 import numpy as np
 import pandas as pd
 import streamlit as st
-import seaborn as sns
+# import seaborn as sns
 import panel as pn
 import hvplot.pandas
 import matplotlib
